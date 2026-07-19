@@ -8,3 +8,6 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Local notebook backup
+prompt_2_II-Copy.ipynb
